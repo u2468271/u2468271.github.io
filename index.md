@@ -45,7 +45,7 @@
             <a href="https://soundcloud.com" class="link" target="_blank">SoundCloud</a>
             <a href="https://esportal.com" class="link" target="_blank">Esportal</a>
             <a href="https://twitch.tv" class="link" target="_blank">Twitch</a>
-            <a href="https://twitch.tv" class="link" target="_blank">Twitch</a>
+            <a href="https://youtube.com" class="link" target="_blank">YouTube</a>
             <a href="https://xplay.gg" class="link" target="_blank">Xplay.gg</a>
             <a href="https://cybershoke.net" class="link" target="_blank">Cybershoke</a>
         </div>
