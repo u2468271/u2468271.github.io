@@ -7,7 +7,7 @@
         body {
             margin: 0;
             padding: 0;
-            background-color: #000000; /* Full black background */
+            background-color: #000000;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -24,8 +24,8 @@
 
         .link {
             text-decoration: none;
-            color: #000000; /* Black text color for contrast */
-            background-color: #ffffff; /* White button background */
+            color: #000000;
+            background-color: #ffffff;
             padding: 1rem 2rem;
             border-radius: 5px;
             text-align: center;
@@ -34,8 +34,8 @@
         }
 
         .link:hover {
-            background-color: #f0f0f0; /* Slightly lighter on hover */
-            color: #333333; /* Darker text on hover */
+            background-color: #f0f0f0;
+            color: #333333;
         }
     </style>
 </head>
