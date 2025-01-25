@@ -48,6 +48,8 @@
             <a href="https://youtube.com" class="link" target="_blank">YouTube</a>
             <a href="https://xplay.gg" class="link" target="_blank">Xplay.gg</a>
             <a href="https://cybershoke.net" class="link" target="_blank">Cybershoke</a>
+            <a href="https://csgoskins.gg" class="link" target="_blank">CSGO SKINS</a>
+            <a href="https://www.deepl.com/de/translator" class="link" target="_blank">Translator</a>
         </div>
     </main>
 </body>
