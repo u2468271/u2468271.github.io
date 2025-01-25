@@ -17,6 +17,34 @@
             font-family: Arial, sans-serif;
         }
 
+        .search-bar {
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        .search-bar input[type="text"] {
+            padding: 0.5rem;
+            width: 300px;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .search-bar input[type="submit"] {
+            padding: 0.5rem 1rem;
+            font-size: 1rem;
+            border: none;
+            border-radius: 5px;
+            background-color: #4682b4;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .search-bar input[type="submit"]:hover {
+            background-color: #5a9bd6;
+        }
+
         .link-container {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
@@ -52,6 +80,12 @@
 </head>
 <body>
     <main>
+        <div class="search-bar">
+            <form action="https://www.google.com/search" method="get" target="_blank">
+                <input type="text" name="q" placeholder="Search Google">
+                <input type="submit" value="Search">
+            </form>
+        </div>
         <div class="link-container">
             <a href="https://soundcloud.com" class="link" target="_blank">SoundCloud</a>
             <a href="https://esportal.com" class="link" target="_blank">Esportal</a>
