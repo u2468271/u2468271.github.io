@@ -7,7 +7,7 @@
         body {
             margin: 0;
             padding: 0;
-            background: url('your-image-url.jpg') no-repeat center center fixed;
+            background: url('[your-image-url.jpg](https://cdn.discordapp.com/attachments/1275528960314445906/1332772494414975086/0ee07d567a956d30140272704eb352f9.jpg?ex=6796789c&is=6795271c&hm=c9ac4f5f4687b6e903025e3a9427f6cdd6fd7244f773bf21ff1dedde3bd1dbb9&)') no-repeat center center fixed;
             background-size: cover;
             display: flex;
             flex-direction: column;
