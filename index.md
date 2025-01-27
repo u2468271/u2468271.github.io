@@ -95,6 +95,7 @@
             <a href="https://cybershoke.net" class="link" target="_blank">Cybershoke</a>
             <a href="https://csgoskins.gg" class="link" target="_blank">SKINS</a>
             <a href="https://www.deepl.com/de/translator" class="link" target="_blank">Translator</a>
+            <a href="https://cs2browser.com" class="link" target="_blank">Browser</a>
         </div>
     </main>
 </body>
